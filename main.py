@@ -1,10 +1,7 @@
 import pygame
 from pygame.locals import *
 import random
-import os
-import sys
 import math
-from pygame_functions import *
 
 # initializing Pygame
 pygame.init()
